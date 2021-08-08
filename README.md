@@ -1,6 +1,6 @@
 # Deep Learning-Basics
 
-The notebook is a detailed cookbook on how to create a basic multi-layer perceptron (ANN) and a basic convolution neural network (CNN) using keras library and the MNIST datatset. The dataset source is shared in the notebook.
+The notebook is a detailed cookbook on how to create a basic deep neural network (DNN) and a basic convolution neural network (CNN) using keras library and the MNIST datatset. The dataset source is shared in the notebook.
 
 # TensorFlow 2.0 Tutorial
 
