@@ -2,6 +2,9 @@
 
 The notebook is a detailed cookbook on how to create a basic deep neural network (DNN) and a basic convolution neural network (CNN) using keras library and the MNIST datatset. The dataset source is shared in the notebook.
 
+# CNN_Data_Augmentation
+This notebook is a coursera exercise on how to perform data augmentation with tensorflow and then train a CNN model.
+
 # TensorFlow 2.0 Tutorial
 
 The notebook is a tutorial to get started with the basics of TensorFlow 2.0 along with some intermediate level concepts including model subclassing using keras. 
